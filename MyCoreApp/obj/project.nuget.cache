@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTKwbnCPUKYE4/A9jVU2fwKvISHWVMKblkxxkENo9UcNvH/fgLGi5bp2WBn1mCRq77FHzMWbI2Kb0HcD+BBFog==",
+  "success": true,
+  "projectFilePath": "D:\\faps\\git\\ASP.net\\MyCoreApp\\MyCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xavier\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
