@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'SelfHosted-agent1'
+  name: 'SelfHosted'
 
 variables:
   solution: '**/*.sln'
